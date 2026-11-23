@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "name": "加班阿宏",
+    "intro": "加班到很晚，只想吃口熱的",
+    "budget": 100,
+    "wants": ["招牌鍋貼", "酸辣湯"],
+    "hates": "玉米鍋貼",
+    "days": [1, 3],
+    "count": 4,
+    "lines": {
+      "bought": "熱呼呼，續命成功！",
+      "hated_on_menu": "有玉米？我不進去了",
+      "not_on_menu": "沒招牌我怎麼活",
+      "sold_out": "賣完了？今晚完蛋",
+      "too_expensive": "這價錢太傷人了"
+    }
+  },
+  {
+    "name": "省錢小琪",
+    "intro": "月底荷包很緊的新鮮人",
+    "budget": 40,
+    "wants": ["豆漿"],
+    "hates": "韭菜鍋貼",
+    "days": [2, 4],
+    "count": 5,
+    "lines": {
+      "bought": "剛好夠，開心！",
+      "hated_on_menu": "有韭菜？我不進去了",
+      "not_on_menu": "今天沒豆漿嗎",
+      "sold_out": "豆漿賣光了啦",
+      "too_expensive": "月底吃不起啊"
+    }
+  },
+  {
+    "name": "健身阿杰",
+    "intro": "吃清爽，不碰重口味",
+    "budget": 120,
+    "wants": ["韭菜鍋貼", "紅茶"],
+    "hates": "酸辣湯",
+    "days": [3, 5],
+    "count": 3,
+    "lines": {
+      "bought": "這樣吃剛剛好",
+      "hated_on_menu": "有酸辣湯，我先走",
+      "not_on_menu": "沒韭菜就算了",
+      "sold_out": "韭菜賣光了喔",
+      "too_expensive": "這價格不划算"
+    }
+  }
+]
